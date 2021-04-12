@@ -77,10 +77,10 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/vendor/lib/libssd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libssd.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libstagefright_hdcp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstagefright_hdcp.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libxml.so:$(TARGET_COPY_OUT_VENDOR)/lib/libxml.so \
-    vendor/lge/hammerhead/proprietary/vendor/lib/libFaceDetectCA.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libFaceDetectCA.so \
-    vendor/lge/hammerhead/proprietary/vendor/lib/libmegface.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmegface.so \
-    vendor/lge/hammerhead/proprietary/vendor/lib/libMegviiUnlock.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libMegviiUnlock.so \
-    vendor/lge/hammerhead/proprietary/vendor/lib/libMegviiUnlock-jni-1.2.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libMegviiUnlock-jni-1.2.so \
+    vendor/lge/hammerhead/proprietary/vendor/lib/libFaceDetectCA.so:$(TARGET_COPY_OUT_VENDOR)/lib/libFaceDetectCA.so \
+    vendor/lge/hammerhead/proprietary/vendor/lib/libmegface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmegface.so \
+    vendor/lge/hammerhead/proprietary/vendor/lib/libMegviiUnlock.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMegviiUnlock.so \
+    vendor/lge/hammerhead/proprietary/vendor/lib/libMegviiUnlock-jni-1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMegviiUnlock-jni-1.2.so \
     vendor/lge/hammerhead/proprietary/vendor/bin/mpdecision:$(TARGET_COPY_OUT_VENDOR)/bin/mpdecision \
     vendor/lge/hammerhead/proprietary/vendor/bin/thermal-engine:$(TARGET_COPY_OUT_VENDOR)/bin/thermal-engine \
     vendor/lge/hammerhead/proprietary/vendor/bin/vss_init:$(TARGET_COPY_OUT_VENDOR)/bin/vss_init \
